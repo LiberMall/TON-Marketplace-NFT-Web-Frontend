@@ -29,7 +29,4 @@
 Проект распространяется под лицензией [MIT](https://github.com/LiberMall/TON-Marketplace-NFT-Web-Frontend/blob/main/LICENSE).
 
 ## Контакты
-Для связи и дополнительной информации обращайтесь к [TegroTON](https://liberapay.com/Tegro) - DeFi & Web3.
-
-## Благодарности
-Особая благодарность участникам проекта: DeFiTON, renovate[bot] и mend-bolt-for-github[bot].
+Для связи и дополнительной информации обращайтесь к [TegroTON](https:///libermall.com) - DeFi & Web3.
