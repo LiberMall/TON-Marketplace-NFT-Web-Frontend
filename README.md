@@ -115,6 +115,6 @@ Issues and PRs welcome — especially around accessibility, mobile rendering, an
 
 **Part of the [Libermall ecosystem](https://libermall.com).**
 
-[Identity](https://id.libermall.com) · [DEX](https://dex.libermall.com) · [Pay](https://pay.libermall.com) · [Card](https://card.libermall.com) · [Reviews](https://sites.reviews) · [TonChat AI](https://tonchat.ai) · [TON.CEO](https://ton.ceo)
+[Identity](https://id.libermall.com) · [DEX](https://dex.libermall.com) · [Pay](https://pay.libermall.com) · [Card](https://card.libermall.com)
 
 </div>
